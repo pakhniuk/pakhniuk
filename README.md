@@ -32,7 +32,7 @@ Local prototype. Successful live AI comparison is not yet verified; the README d
 
 A Next.js application that estimates additions and deletions in public repositories, with GitHub OAuth, server-side token handling, partial-result reporting, and Jest / React Testing Library tests.
 
-**Next.js · TypeScript · GitHub API · Auth.js** · [Source](https://github.com/pakhniuk/codine) · [App](https://codine.vercel.app)
+**Next.js · TypeScript · GitHub API · Auth.js** · [Source](https://github.com/pakhniuk/codine) · [Demo without sign-in](https://codine.vercel.app/demo)
 
 ### Gather — Shopping Planner · In development
 
